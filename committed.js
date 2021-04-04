@@ -1,3 +1,3 @@
 chau
-Agregue una linea más
+Linea cambiada desde PC
 Ultima linea
